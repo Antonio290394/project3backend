@@ -1,0 +1,10 @@
+ISBN: 9788806242626, Titolo: Il Vangelo secondo la Scienza, Anno di pubblicazione: 2019, Pagine: 248, Autore: Piergiorgio Odifreddi, Genere: Scienza#
+ISBN: 9788899684693, Titolo: Il genio non esiste (e a volte è un idiota), Anno di pubblicazione: 2020, Pagine: 300, Autore: Barbascura X, Genere: Scienza#
+ISBN: 9788806239831, Titolo: Le otto montagne, Anno di pubblicazione: 2018, Pagine: 200, Autore: Paolo Cognetti, Genere: Fiction#
+ISBN: 9788804764878, Titolo: Fa bene o fa male? Manuale di autodifesa alimentare, Anno di pubblicazione: 2023, Pagine: 328, Autore: Dario Bressanini, Genere: Scienza#
+ISBN: 9791280229670, Titolo: Donne che pensano troppo, Anno di pubblicazione: 2023, Pagine: 318, Autore: Susan Nolen-Hoeksema, Genere: Psicologia#
+ISBN: 9781292110073, Titolo: Focus, Anno di pubblicazione: 1992, Pagine: 150, Periodicità MENSILE#
+ISBN: 9781292110080, Titolo: Vogue, Anno di pubblicazione: 1892, Pagine: 250, Periodicità MENSILE#
+ISBN: 9781447998396, Titolo: TIME, Anno di pubblicazione: 1923, Pagine: 100, Periodicità SETTIMANALE#
+ISBN: 9781292110110, Titolo: Journal of Molecular Biology, Anno di pubblicazione: 1959, Pagine: 250, Periodicità SEMESTRALE#
+ISBN: 9781447998617, Titolo: Journal of Applied Physics , Anno di pubblicazione: 1931, Pagine: 900, Periodicità SEMESTRALE
